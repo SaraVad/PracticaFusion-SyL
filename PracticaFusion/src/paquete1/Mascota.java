@@ -16,7 +16,7 @@ public class Mascota {
 		this.nombre = nombre;
 	}
 
-	public void MandarMensaje() {
+	public void mandarMensaje() {
 		System.out.println("Soy " + this.nombre + " y te voy a contar algo o no");
 	}
 }
