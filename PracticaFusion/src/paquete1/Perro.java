@@ -1,3 +1,4 @@
+package paquete1;
 
 public class Perro extends Mascota {
 

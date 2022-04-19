@@ -8,6 +8,11 @@ public class Principal {
 		Gato miGato=new Gato("Mika","Main Coon");
 		
 		miGato.mandarMensaje();
+		
+		Perro perro = new Perro("Capitan", "Negro");
+		
+		perro.mandarMensaje();
+		
 	}
 
 }
