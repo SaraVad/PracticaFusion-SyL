@@ -3,8 +3,8 @@ package paquete1;
 public class Gato extends Mascota{
 	private String raza;
 
-	public Gato(String nombre, String raza) {
-		super(nombre);
+	public Gato(String nombre, int edad, String raza) {
+		super(nombre,edad);
 		this.raza = raza;
 	}
 
