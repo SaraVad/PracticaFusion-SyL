@@ -8,8 +8,8 @@ public class Perro extends Mascota {
 
 	// Constructor
 
-	public Perro(String nombre, String colorPiel) {
-		super(nombre);
+	public Perro(String nombre,int edad, String colorPiel) {
+		super(nombre, edad);
 		this.colorPiel = colorPiel;
 	}
 
