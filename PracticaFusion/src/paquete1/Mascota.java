@@ -27,6 +27,6 @@ public class Mascota {
 	}
 
 	public void mandarMensaje() {
-		System.out.println("Soy " + this.nombre + " y te voy a contar algo o no, mi duenyo es " + getDuenyo());
+		System.out.println("Hola equipo! Soy " + this.nombre + " y te voy a contar algo o no, mi duenyo es " + getDuenyo());
 	}
 }
